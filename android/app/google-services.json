@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "83990787116",
+    "firebase_url": "https://gun-gangster-arena-91012185.firebaseio.com",
+    "project_id": "gun-gangster-arena-91012185",
+    "storage_bucket": "gun-gangster-arena-91012185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83990787116:android:185d9ba0a5a6608d7e0d89",
+        "android_client_info": {
+          "package_name": "com.example.flutter_imic03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8792iujpLpyNRxsD5YH5pk3y54_rA4e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83990787116-2u3ud54aev94fu3688nn5a06063k7gu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterImic04"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83990787116:android:3d21f1ed6e31a98a7e0d89",
+        "android_client_info": {
+          "package_name": "com.example.flutter_imic04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8792iujpLpyNRxsD5YH5pk3y54_rA4e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83990787116-2u3ud54aev94fu3688nn5a06063k7gu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterImic04"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83990787116:android:f3342192295ef6a47e0d89",
+        "android_client_info": {
+          "package_name": "com.example.flutter_imic05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8792iujpLpyNRxsD5YH5pk3y54_rA4e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83990787116-73ijgo7m6dci7v27lvlvuf8chsto6iit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83990787116-2u3ud54aev94fu3688nn5a06063k7gu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterImic04"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

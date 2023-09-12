@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>83990787116-su641m5cj3fah07ekcncdos1jenqgf9i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.83990787116-su641m5cj3fah07ekcncdos1jenqgf9i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>83990787116-k0bfrkhabdf6u8futf4tkufu4cqi0rfo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7oxYuSELRgsOGmAnrUS63cVE0V5Nuo2Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83990787116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterImic05.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>gun-gangster-arena-91012185</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gun-gangster-arena-91012185.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83990787116:ios:244f5eaea07b661f7e0d89</string>
+	<key>DATABASE_URL</key>
+	<string>https://gun-gangster-arena-91012185.firebaseio.com</string>
+</dict>
+</plist>
